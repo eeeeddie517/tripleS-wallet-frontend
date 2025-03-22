@@ -1,0 +1,1 @@
+window.Ramper=class{constructor(config){this.config=config}login(){return Promise.resolve({user:{wallet:{address:"0xFAKEWALLETADDRESS"}}})}};
